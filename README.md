@@ -34,8 +34,24 @@ Each Jupyter Notebook (`.ipynb`) covers a specific module of the Pandas ecosyste
 * `anime.csv`: Entertainment dataset used for exploratory grouping and feature extraction.
 
 
+### Useful YouTube Channels:
+
+[Sheryians AI School](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0)
+
+## For any queries/doubts 🔗 👇 
+
+- **Email**: rahul.gupta37841@gmail.com
+- **LinkedIn**:  www.linkedin.com/in/honestreply9990
 
 
 
----
+## **My Social Media Hanldes:**
+
+<a href="https://www.linkedin.com/in/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
+<a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
+<a href="https://www.instagram.com/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/honestreply9990//" alt="RahulKumar" height="20" width="110"/></a>
+
+
+## ✨ **Feel free to explore my repositories and connect with me!**
+
 *Maintained by Rahul Kumar*
